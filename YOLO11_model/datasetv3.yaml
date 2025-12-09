@@ -1,0 +1,23 @@
+train: datasetv3/train/images
+val: datasetv3/val/images
+test: datasetv3/test/images
+nc: 18
+names:
+- Algae
+- Clam Shell
+- Elodea Canadensis
+- Eriocaulon Septangulare
+- I. Lacustris
+- Leaves
+- M. Spicatum
+- M. Tenellum
+- Najas
+- P. Amplifolius
+- P. Gramineus
+- P. Perfoliatus
+- P. Praelongus
+- P. Robbinsii
+- P. Zosteriformis
+- Snail
+- Unknown Plant
+- Vallisneria Americana
